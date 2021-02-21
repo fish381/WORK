@@ -1,0 +1,7 @@
+working on v2.196
+tasks:
+make remote for email.
+Efficiency +
+smaller files for transmission +
+work on no install packets. -
+work on new project for installer. +
